@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Laravel PHP framework
 - 💞️ I’m looking to collaborate on PHP and MySQL
 - 📫 How to reach me: pin on Github.
+  facebook- https://www.facebook.com/ghnshym143
+  instagram- https://www.instagram.com/ghnshym143/
+  
 
 <!---
 Ghnshym/Ghnshym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
