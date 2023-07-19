@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghnshym
-- 👀 I’m interested in coding (PHP, HTML, CSS, JavaScript, MySQL, BootStrap, Git)
+- 👀 I’m interested in coding (Laravel, PHP, HTML, CSS, JavaScript, MySQL, BootStrap, Git)
 - 🌱 I’m currently learning Laravel PHP framework
 - 💞️ I’m looking to collaborate on PHP and MySQL
 - 📫 How to reach me: pin on Github.
