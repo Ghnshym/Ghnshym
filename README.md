@@ -96,13 +96,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/ghnshym">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghnshym&theme=radical&border=7F3FBF&background=0D1117" alt="Ghanshyam's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/ghnshym">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghnshym&theme=radical" alt="Ghanshyam's GitHub Contribution"/>
   </a>
 </p>
