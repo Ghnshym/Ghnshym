@@ -1,18 +1,3 @@
-- 👋 Hi, I’m @Ghnshym
-- 👀 I’m interested in coding (Laravel, PHP, HTML, CSS, JavaScript, MySQL, BootStrap, Git)
-- 🌱 I’m currently learning Laravel PHP framework
-- 💞️ I’m looking to collaborate on PHP, LARAVEL and MySQL
-- 📫 How to reach me: pin on Github.
-  facebook- https://www.facebook.com/ghnshym143
-  instagram- https://www.instagram.com/ghnshym143/
-  
-
-<!---
-Ghnshym/Ghnshym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -95,21 +80,12 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Top Open Source -
+<!-- ## Top Open Source -
 [![Web Projects](https://github.com/ghnshym/web-projects/blob/main/image.png)](https://github.com/Ghnshym/student-result-management-system-using-java)
 
-<!--
 [![Ghanshyam](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Blogging-App)
-[![Ghanshyam](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Simple-Book-Store)
-[![Ghanshyam](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Laravel-crud-with-image)
+-->
 
-
-
-
- (https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
 
 <p align="left">
   <a href="https://github.com/Ghnshym?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
