@@ -96,7 +96,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/student-result-management-system-using-java)
+[![Web Projects](https://github.com/ghnshym/web-projects/blob/main/image.png)](https://github.com/Ghnshym/student-result-management-system-using-java)
+
 <!--
 [![Ghanshyam](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Blogging-App)
 [![Ghanshyam](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Simple-Book-Store)
