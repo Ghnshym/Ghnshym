@@ -73,21 +73,30 @@
 
 ## Top Open Source Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
 
-  [![Blogging App](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Blogging-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Blogging-App)
-  
-  [![Hostel Management System](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Hostel_management_system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Hostel_management_system)
+  <div style="width: 48%; height: 100px;">
+    [![Blogging App](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Blogging-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Blogging-App)
+  </div>
+
+  <div style="width: 48%; height: 100px;">
+    [![Hostel Management System](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Hostel_management_system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Hostel_management_system)
+  </div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 48%; height: 100px;">
+    [![EcommercePro](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=EcommercePro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/EcommercePro)
+  </div>
+
+  <div style="width: 48%; height: 100px;">
+    [![Student Result Management System using Java](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=student-result-management-system-using-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/student-result-management-system-using-java)
+  </div>
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  [![EcommercePro](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=EcommercePro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/EcommercePro)
-
-  [![Student Result Management System using Java](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=student-result-management-system-using-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/student-result-management-system-using-java)
-
-</div>
 
 
 
