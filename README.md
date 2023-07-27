@@ -76,11 +76,15 @@
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%; height: 100px;">
-    [![Blogging App](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Blogging-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Blogging-App)
+    <a href="https://github.com/Ghnshym/Blogging-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Blogging-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Blogging App">
+    </a>
   </div>
 
   <div style="width: 48%; height: 100px;">
-    [![Hostel Management System](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Hostel_management_system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/Hostel_management_system)
+    <a href="https://github.com/Ghnshym/Hostel_management_system">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=Hostel_management_system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Hostel Management System">
+    </a>
   </div>
 
 </div>
@@ -88,14 +92,19 @@
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%; height: 100px;">
-    [![EcommercePro](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=EcommercePro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/EcommercePro)
+    <a href="https://github.com/Ghnshym/EcommercePro">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=EcommercePro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="EcommercePro">
+    </a>
   </div>
 
   <div style="width: 48%; height: 100px;">
-    [![Student Result Management System using Java](https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=student-result-management-system-using-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ghnshym/student-result-management-system-using-java)
+    <a href="https://github.com/Ghnshym/student-result-management-system-using-java">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghnshym&repo=student-result-management-system-using-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Student Result Management System using Java">
+    </a>
   </div>
 
 </div>
+
 
 
 
