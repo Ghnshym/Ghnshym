@@ -35,6 +35,9 @@
  <a href="https://facebook.com/ghnshym143" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ghanshyam"  />
   </a> 
+<a href="https://www.getpostman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</a>
 </p>
 <br />
 
