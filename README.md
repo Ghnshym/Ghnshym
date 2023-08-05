@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
+    <a href="https://www.google.com/search?client=ms-android-samsung-gj-rev1&hl=en-GB&cs=1&sca_esv=553996702&sxsrf=AB5stBiwSXr4tkaqhLzujMhQ0-UeoYhJRQ:1691214571209&q=Ghanshyam+IT&ludocid=3905829536308051477&ibp=gwp;0,7&lsig=AB86z5VAWX52pdHSqEVITSif4JgD&kgs=9fff045621351e4f&shndl=-1&shem=lbse,lsp&source=sh/x/kp/local/m1/4#lpg=cid:CgIgAQ%3D%3D">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Bihar (India)</b> 」
     <br>
