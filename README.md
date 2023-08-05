@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/">「 Google Me 」</a>
+    <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Bihar (India)</b> 」
     <br>
