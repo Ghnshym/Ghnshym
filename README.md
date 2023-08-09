@@ -5,9 +5,6 @@
         </samp>
 </h3>
 
-# My GitHub Streak
-![GitHub Streak](<%= get_github_streak_image("Ghnshym", "radical", "7F3FBF", "0D1117") %>)
-
 <p align="center"> 
   <samp>
     <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
