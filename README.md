@@ -100,7 +100,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghnshym&theme=radical&border=7F3FBF&background=0D1117" alt="Your GitHub streak"/>
   </a>
 </p>
-# My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghnshym&theme=radical&border=7F3FBF&background=0D1117)
 
 <p align="center">
