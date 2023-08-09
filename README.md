@@ -95,12 +95,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghnshym&theme=radical&border=7F3FBF&background=0D1117" alt="Ghanshyam's GitHub streak"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Ghnshym">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghnshym&theme=radical&border=7F3FBF&background=0D1117" alt="Your GitHub streak"/>
-  </a>
-</p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghnshym&theme=radical&border=7F3FBF&background=0D1117)
 
 <p align="center">
   <a href="https://github.com/ghnshym">
