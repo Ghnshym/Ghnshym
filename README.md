@@ -6,7 +6,6 @@
 </h3>
 
 
-
 <p align="center"> 
   <samp>
     <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
