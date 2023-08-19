@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://ghanshyam.com" target="blank">
+ <a href="https://g.co/kgs/MzXDjd" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ghanshyam" />
  </a>
  <a href="https://linkedin.com/in/ghnshym143/" target="_blank">
