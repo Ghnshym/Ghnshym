@@ -45,7 +45,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- ❤️ &emsp; We solve problems!<br/><br/>
+ ❤️ &emsp; We love to solve problems!<br/><br/>
  📧 &emsp; Reach me anytime: ghnshym143@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ghnshym/)
 
