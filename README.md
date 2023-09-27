@@ -4,8 +4,6 @@
                 <b><a target="_blank" href=""> Ghanshyam Kumar</a></b>
         </samp>
 </h3>
-
-
 <p align="center"> 
   <samp>
     <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
