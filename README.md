@@ -2,8 +2,9 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href=""> Ghanshyam Kumar</a></b>
-        </samp>   
+        </samp> 
 </h3>
+
 <p align="center"> 
   <samp>
     <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
