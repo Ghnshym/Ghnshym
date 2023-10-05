@@ -38,8 +38,29 @@
 <br />
 
 <!-- About Section -->
- # About me
+# About Me
 
+👋 Hi there! I'm Ghanshyam, a passionate software developer intern on a journey to explore the exciting world of technology and coding. I'm currently based in Mohali, and I'm pursuing my degree in MCA at LPU, Jalandhar.
+
+<!-- Main Content Section -->
+## 🌟 What I Love
+
+- 💻 I'm enthusiastic about coding and enjoy working on a wide range of projects.
+- 🚀 I'm always up for learning new technologies and improving my skills.
+- 🔍 I have a keen eye for detail and take pride in writing clean, efficient code.
+- 📚 I love to share my knowledge and learn from the amazing developer community.
+
+## 📢 Let's Connect
+
+I'm always open to collaboration and connecting with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ghnshym143/). Let's learn, code, and grow together!
+
+## 🌐 My Portfolio
+
+You can check out some of my projects and contributions right here on GitHub. Don't hesitate to explore and provide feedback. Your insights are highly appreciated! 👇
+
+[**Portfolio**](https://github.com/Ghnshym)
+
+**Happy coding!** 🚀
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
