@@ -53,7 +53,6 @@
 </p>
 <br/>
 <br/>
-<br/>
 
 ### Technologies I Use:
 
