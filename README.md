@@ -13,8 +13,8 @@
     <br>
   </samp>
 </p>
-
 ![Snake animation](https://github.com/Ghnshym/Ghnshym/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
