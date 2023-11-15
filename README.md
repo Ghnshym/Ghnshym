@@ -8,12 +8,13 @@
   <samp>
     <a href="https://g.co/kgs/MzXDjd">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bihar (India)</b> 」
     <br>
     <br>
   </samp>
 </p>
-![Snake animation](./output/github-contribution-grid-snake.svg)
+!<p align="center">
+    <img src="https://github.com/Ghnshym/Ghnshym/blob/main/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 
 
