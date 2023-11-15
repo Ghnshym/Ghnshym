@@ -12,9 +12,7 @@
     <br>
   </samp>
 </p>
-!<p align="center">
-    <img src="https://github.com/Ghnshym/Ghnshym/blob/main/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Ghnshym/Ghnshym/main/github-contribution-grid-snake.svg" alt="snake" />
 
 
 
