@@ -1,0 +1,19 @@
+name: Update Snake
+
+on:
+  push:
+    branches:
+      - main  # or the name of your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run snake
+        uses: Platane/snk@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
