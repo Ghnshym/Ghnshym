@@ -14,6 +14,9 @@
   </samp>
 </p>
 
+![Snake animation](https://github.com/Ghnshym/Ghnshym/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <p align="center">
  <a href="https://g.co/kgs/MzXDjd" target="blank">
